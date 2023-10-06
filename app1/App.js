@@ -10,7 +10,7 @@ class App extends Component {
           style={styles.image}
         />
         <Text style={styles.title}>Dados Pessoais</Text>
-        <Text style={styles.text}>123456-789</Text>
+        <Text style={styles.text}>Ewerton Luiz</Text>
         <br />
         <Text style={styles.title}>Formação</Text>
         <Text style={styles.text}>Fatec-pg</Text>
